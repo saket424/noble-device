@@ -31,6 +31,6 @@
     "async": "~0.7.0"
   },
   "dependencies": {
-    "noble": "github:abandonware/noble#master"
+    "noble": "github:proxyco/noble#proxy_staging"
   }
 }
